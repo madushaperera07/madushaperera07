@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madushaperera07
-- 👀 I’m interested in coding
+- 👀 I’m interested in Software and IOT development
 - 🌱 I’m currently learning at university of colombo
 - 💞️ I’m looking to collaborate onsoftware engineering industry
 
